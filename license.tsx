@@ -1,0 +1,5 @@
+/**
+ * @license
+ * contributor: SPDX-License-Identifier: Apache-2.0
+ * copyright license: @techbaes
+*/
